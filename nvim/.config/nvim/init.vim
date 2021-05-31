@@ -91,6 +91,9 @@ Plug 'rust-lang/rust.vim'
 " Async.vim
 Plug 'prabirshrestha/async.vim'
 
+" Wren
+Plug 'lluchs/vim-wren'
+
 " Vim lsp
 "Plug 'prabirshrestha/vim-lsp'
 
